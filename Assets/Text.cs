@@ -4,7 +4,11 @@ using UnityEngine;
 
 public class Text : MonoBehaviour
 {
+<<<<<<< HEAD
     private string str = "third";
+=======
+    private string str = "Second";
+>>>>>>> 4de01c05c4e3235a49ea5af7d370b3c143be2dd8
     // Start is called before the first frame update
     void Start()
     {
